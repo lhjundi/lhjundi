@@ -30,6 +30,3 @@
     <a href="https://www.instagram.com/jundi.ito/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&locale=en" alt=""></a>
     <a href="https://www.linkedin.com/in/lhjundi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&locale=en" alt=""></a>
 </div>
-Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-Attach files by dragging & dropping, selecting or pasting them.
-Editing lhjundi/README.md at main · lhjundi/lhjundi
