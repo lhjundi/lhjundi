@@ -1,24 +1,22 @@
-<h1 align="center">Hi there, I'm Lucas Jundi Hikazudani</h1>
-<br><br>
+<h1 align="center">Hi there</h1>
+<br>
+# I'm Lucas Jundi Hihkazudani.
+And Welcome to my GitHub profile.
 
-- I’m currently learning **Java and C**
+## Who am I?
+I'm Lucas Jundi Hikazudani, a Software Engineer student at the [Instituto Federal de São Paulo - IFSP SCL](https://portais.ifsp.edu.br/scl/).
+
+## What knowledge do I have?
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,nodejs,react,mysql,python,r)](https://skillicons.dev)
+
 
 <hr>
-
-<h3 align="left">Languages and Tools: </h3>
-
-<div align="left">
-  <br><br>
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="75" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="80" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-          
-          
-          
+### My Statistics:
+<div>
+<a href="https://github.com/Wesley0010012">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhjundi&layout=compact&langs_count=7&theme=light"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lhjundi&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
 </div>
- <br>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
