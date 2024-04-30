@@ -3,7 +3,7 @@
 And Welcome to my GitHub profile.
 
 ## Who am I?
-I'm Lucas Jundi Hikazudani, a Software Engineering student at the [Instituto Federal de São Paulo - IFSP SCL](https://portais.ifsp.edu.br/scl/).
+I'm Lucas Jundi Hikazudani, I hold a Bachelor's degree in Civil Engineering, and I'm currently pursuing an MBA in Data Science and Analytics at USP/ESALQ, as well as a Bachelor's degree in Software Engineering at the [Instituto Federal de São Paulo - IFSP SCL](https://portais.ifsp.edu.br/scl/).
 
 ## What knowledge do I have?
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,nodejs,react,mysql,python,r)](https://skillicons.dev)
