@@ -1,5 +1,3 @@
-, 
-
 <h1 align="center">Hello, I'm Lucas Jundi Hikazudani</h1>
 <main>I hold a Bachelor's degree in Civil Engineering, and I'm currently pursuing an MBA in Data Science and Analytics at USP/ESALQ, as well as a Bachelor's degree in Software Engineering at IFSP.</main>
 <br>
